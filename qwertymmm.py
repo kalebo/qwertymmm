@@ -5,7 +5,7 @@ import curses
 import random
 
 FONT = Figlet(font="big")
-KEYBOARD = r"""',.pyfgcrl/=aoeuidhtns-;qjkxbmwvz"""
+KEYBOARD = r"""',.pyfgcrl/=aoeuidhtns-;qjkxbmwvz[]"""
 
 def main(stdscr):
     try:
